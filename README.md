@@ -1,4 +1,4 @@
-Test-Programs
+Test Programs
 =============
 
-All tested programs
+Programs created for testing
